@@ -34,5 +34,25 @@ Each folder may include:
 - Compiled simulation outputs
 - Quartus project files
 
+## Hardware Setup
+---
+
+The projects are designed to run on FPGA development boards such as:
+
+- Terasic DE10-Lite (Intel MAX 10)
+- Terasic DE10-Standard (Cyclone V SoC)
+
+---
+
+## Software & Tools
+---
+
+Primary tools used in this course:
+
+- Intel Quartus Prime Lite (Synthesis & Bitstream generation)
+- Questa / ModelSim (Simulation)
+- USB Blaster (Programming interface)
+
+---
 
 

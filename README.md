@@ -1,5 +1,5 @@
 # Logica-programablee
-Decodificación de Número Primo con 4 Variables en FPGA
+Decodificación de Números Primos con 4 Variables en FPGA
 ## Descripción
 
 
